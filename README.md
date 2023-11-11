@@ -1,6 +1,6 @@
 # cube-chat-proxy
 
-本项目使用[Vercel](https://vercel.com/)/[Cloudflare](https://cloudflare.com/)，实现对OpenAI等的代理
+本项目使用 [Vercel](https://vercel.com/) / [Cloudflare](https://cloudflare.com/) ，实现对OpenAI等的代理
 
 ## Fork仓库
 
@@ -14,4 +14,4 @@
 
 ## 使用方法
 
-详细部署/使用方法请异步 [网络代理](https://www.yuque.com/mblog/cube-chat/proxy)
+详细部署/使用方法请移步 [网络代理](https://www.yuque.com/mblog/cube-chat/proxy)
