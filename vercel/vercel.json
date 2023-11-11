@@ -36,5 +36,12 @@
       "source": "/:protocol*/:match/:url*/",
       "destination": ":protocol://:match/:url*/"
     }
+  ],
+  "regions": [
+    "sin1",
+    "syd1",
+    "icn1",
+    "hnd1",
+    "kix1"
   ]
 }
